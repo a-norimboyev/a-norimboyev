@@ -36,50 +36,54 @@ const azizjon = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,git,github,vscode,figma,vercel,firebase&perline=8" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=a-norimboyev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-norimboyev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📋 KunTartib</h3>
+      <p align="center">A daily task management application to organize your day efficiently.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/a-norimboyev">🔗 Repo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Portfolio</h3>
+      <p align="center">My personal developer portfolio showcasing my work and skills.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/a-norimboyev">🔗 Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=a-norimboyev&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a-norimboyev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
-
 ---
 
-## 🐍 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/a-norimboyev/a-norimboyev/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-norimboyev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38B2AC&line=38B2AC&point=ffffff&area=true" />
 </p>
 
 ---
