@@ -3,9 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Salom,+men+Azizjon+Norimboyev+👋;Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;Building+Modern+%26+High-Performance+Web+Apps+🚀" alt="Typing SVG" />
 </p>
 
-<!-- Profil statistikasi: ko'rishlar soni va obunachilar -->
+<!-- Profil statistikasi: ko'rishlar soni, repolar va obunachilar -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=a-norimboyev&label=Profile%20Views&color=38B2AC&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/a-norimboyev?tab=repositories">
+    <img src="https://img.shields.io/github/repos-public/a-norimboyev?style=for-the-badge&logo=github&label=Repositories&color=0969DA" alt="Public Repos" />
+  </a>
   <a href="https://github.com/a-norimboyev?tab=followers">
     <img src="https://img.shields.io/github/followers/a-norimboyev?label=Followers&style=for-the-badge&color=238636&logo=github" alt="Followers" />
   </a>
@@ -128,19 +131,15 @@ const azizjon = {
 
 ---
 
-## 📊 GitHub Statistikasi & Faollik (Stats)
+## 📊 GitHub Statistikasi (Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-norimboyev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=FFFFFF" alt="Azizjon's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-norimboyev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=a-norimboyev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=FFFFFF" alt="Azizjon's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a-norimboyev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=a-norimboyev&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-norimboyev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38B2AC&line=38B2AC&point=ffffff&area=true" alt="Activity Graph" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
