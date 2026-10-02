@@ -25,23 +25,7 @@
 
 ## 👨‍💻 Men haqimda (About Me)
 
-```javascript
-const azizjon = {
-  name: "Azizjon Norimboyev",
-  role: "Frontend Developer",
-  skills: ["React", "TypeScript", "Next.js", "Tailwind CSS", "JavaScript (ES6+)", "Vite"],
-  featuredProjects: [
-    "Uzum Market Clone",
-    "Online Doʻkon & Admin Dashboard",
-    "Ob-Havo Ilovasi (Real-time)",
-    "Web Paint Studio"
-  ],
-  architecture: ["Clean Code", "Component-Driven UI", "Responsive & Mobile-First Design"],
-  passions: ["Modern UI/UX", "Web Performance Optimization", "Interactive Web Apps"],
-  currentFocus: "Yuqori tezlikda ishlovchi, qulay va kengayuvchan veb-platformalar yaratish",
-  motto: "Turning creative ideas into clean, functional and interactive web experiences ⚡"
-};
-```
+
 
 * 🔭 **Hozirda nimalar ustida ishlayapman:** Zamonaviy e-commerce yechimlari, boshqaruv panellari (Admin Dashboards) va interaktiv veb-servislar.
 * 💡 **Asosiy yoʻnalishim:** `React`, `TypeScript`, `Next.js` va `Tailwind CSS` yordamida intuitiv, chiroyli va qulay (accessible) foydalanuvchi interfeyslarini yaratish.
